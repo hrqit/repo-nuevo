@@ -1,9 +1,9 @@
 // Función suma
 
-function suma(a, b) {
-  return a + b;
+function suma(dato1, dato2) {
+  return dato1 + dato2;
 }
 
-function resta(x, y) {
-  return x - y;
+function resta(dato1, dato2) {
+  return dato1 - dato2;
 }
